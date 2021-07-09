@@ -1,7 +1,7 @@
 body{
     margin:0;
     text-align: center;
-    background-color:hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
 }
 
 
@@ -9,8 +9,7 @@ body{
 {
     height: 32rem;
     width: 22rem;
-    
-    display:inline-block;
+ display:inline-block;
     text-align: left;
     padding: 0;
    
@@ -95,12 +94,9 @@ body{
 
 .parentdiv
 {
-    background-color: white;
-    margin: 10% auto auto auto;
-    padding: 50px;
-    width: 100%;
-   
-    border-radius: 10px;
+    margin-top: 200px;
+    
+    
 }
 
 .sedans button:hover
